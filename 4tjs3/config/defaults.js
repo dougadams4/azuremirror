@@ -1,7 +1,7 @@
 (function (_4TellBoost, $, undefined) {
     _4TellBoost.CONFIG = {
         SiteInfo: {
-            baseURL: "lkjlkj",
+            baseURL: "",
             alias: "",
             GA_UA: "",
             GATrackID: "4TellRecs",
@@ -80,6 +80,7 @@
         }
     }
 } (window._4TellBoost = window._4TellBoost || {}, jQuery));
+
 
 
 
